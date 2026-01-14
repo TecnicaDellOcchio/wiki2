@@ -120,6 +120,7 @@ function creaGrafica(colonne, dati, linkAutomatici, ordinare) {
 
   for(let i = 0; i < dati[0].length; i++) {
     risultato += '<tr>';
+    console.log(dati[0][i]);
     risultato += `<td>${controllaTesto(linkAutomatici? vR(dati[0][i]) : dati[0][i])}</td>`;
     for(let j = 1; j < colonne.length; j++) {
       risultato += `<td>${controllaTesto(dati[j][i])}</td>`;
@@ -590,3 +591,4 @@ export function render(container, html, aggiungere = false) {
 
   resetPopover(container); // <<< solo qui dentro
 }
+
