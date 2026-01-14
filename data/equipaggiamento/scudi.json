@@ -10,7 +10,19 @@
   "Sr": "3",
   "Desc": "Questo scudo molto piccolo è uno dei preferiti da duellanti e guerrieri rapidi e con armature leggere. È tipicamente fatto d’acciaio e fissato all’avambraccio. Puoi Alzare lo Scudo con il tuo brocchiero purché tu abbia quella mano libera o stia tenendo in quella mano un oggetto leggero che non sia un’arma.",
   "Mostrare": true
+},
+{
+  "Nome": "Scudo di Legno",
+  "Tratti": [],
+  "CA": 2,
+  "PenalitaVelocita": 0,
+  "Durezza": 3,
+  "Hp": "12",
+  "Sr": "6",
+  "Desc": "Sebbene esistano in una grande varietà di forme e dimensioni, la protezione offerta dagli scudi di legno deriva dalla robustezza dei materiali. Anche se sono meno costosi degli scudi d’acciaio, gli scudi di legno si rompono più facilmente.",
+  "Mostrare": true
 }
 
 
 ]
+
