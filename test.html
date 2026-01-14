@@ -1,0 +1,18 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id = 'a'></div>
+    <script type="module">
+        import * as common from './common.js';
+        await common.init();
+        const path = "./data/classi/classes.json";
+        let dati = await common.restituisciOggetto(path, "Barbaro");
+        console.log(dati.Sezioni[0].Contenuti[0]);
+        document.getElementById('a').innerHTML = common.controllaTesto(dati.Sezioni[0].Contenuti[0]);
+    </script>
+</body>
+</html>
