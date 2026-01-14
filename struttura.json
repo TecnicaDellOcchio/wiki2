@@ -17490,7 +17490,67 @@
         "nome": "scudi.json",
         "contenuto": [
           {
-            "nome": "Scudo in Pelle Indurita",
+            "nome": "Brocchiero",
+            "mostrare": true
+          },
+          {
+            "nome": "Brocchiero a Guanto",
+            "mostrare": true
+          },
+          {
+            "nome": "Disco Lama",
+            "mostrare": true
+          },
+          {
+            "nome": "Klar",
+            "mostrare": true
+          },
+          {
+            "nome": "Rondache Pesante",
+            "mostrare": true
+          },
+          {
+            "nome": "Scudo Fortezza",
+            "mostrare": true
+          },
+          {
+            "nome": "Scudo Imbragato",
+            "mostrare": true
+          },
+          {
+            "nome": "Scudo Lanciadardi",
+            "mostrare": true
+          },
+          {
+            "nome": "Scudo Meteora",
+            "mostrare": true
+          },
+          {
+            "nome": "Scudo Rubaspade",
+            "mostrare": true
+          },
+          {
+            "nome": "Scudo Torre",
+            "mostrare": true
+          },
+          {
+            "nome": "Scudo a Salva",
+            "mostrare": true
+          },
+          {
+            "nome": "Scudo di Legno",
+            "mostrare": true
+          },
+          {
+            "nome": "Scudo di Pelle",
+            "mostrare": true
+          },
+          {
+            "nome": "Scudo d’Acciaio",
+            "mostrare": true
+          },
+          {
+            "nome": "Targa del Lanciatore di Incantesimi",
             "mostrare": true
           }
         ]
